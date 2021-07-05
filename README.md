@@ -1,9 +1,27 @@
 # About
 
-Hi~ I'm leejoker. 
+Hi~ I'm leejoker.   
+I'm usually a java coder, but I'm also interested in clojure, ruby, crystal etc. :smile:  
 
-![leejoker's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=leejoker&show_icons=true&count_private=true&theme=gotham)
-[![leejoker's github stats](https://github-readme-stats.vercel.app/api?username=leejoker)](https://github.com/leejoker/github-readme-stats)
+[![leejoker's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejoker&show_icons=true&theme=radical)](https://github.com/leejoker/github-readme-stats)
+
+# Program Language in Use
+
+* Java
+* Clojure
+* Ruby
+* Crystal
+* Javascript
+* Rust
+
+![leejoker's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=leejoker&show_icons=true&count_private=true&theme=gotham)  
+
+# 📫 Contact
+
+- :email:: 1056650571@qq.com
+- Home Page: https://leejoker.github.io
+
+
 
 <!--
 **leejoker/leejoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
