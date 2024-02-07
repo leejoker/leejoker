@@ -1,7 +1,7 @@
 # About
 
 Hi~ I'm leejoker.   
-I'm usually a java coder, but I'm also interested in clojure, ruby, crystal etc. :smile:  
+I'm usually a java coder, but I'm also interested in clojure, ruby, fsharp etc. :smile:  
 
 [![leejoker's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejoker&show_icons=true&theme=radical)](https://github.com/leejoker/github-readme-stats)
 
@@ -10,7 +10,7 @@ I'm usually a java coder, but I'm also interested in clojure, ruby, crystal etc.
 * Java
 * Clojure
 * Ruby
-* Crystal
+* fsharp
 * Javascript
 * Rust
 * Pascal
