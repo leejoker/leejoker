@@ -11,9 +11,7 @@ I'm usually a java coder, but I'm also interested in clojure, ruby, fsharp etc. 
 * Clojure
 * Ruby
 * fsharp
-* Javascript
-* Rust
-* Pascal
+* nim
 
 ![leejoker's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=leejoker&show_icons=true&count_private=true&theme=gotham)  
 
