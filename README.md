@@ -3,7 +3,6 @@
 Hi~ I'm leejoker.   
 I'm usually a java coder, but I'm also interested in clojure, ruby, fsharp etc. :smile:  
 
-[![leejoker's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejoker&show_icons=true&theme=radical)](https://github.com/leejoker/github-readme-stats)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=leejoker&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 # Program Language in Use
