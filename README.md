@@ -3,7 +3,7 @@
 Hi~ I'm leejoker.   
 I'm usually a java coder, but I'm also interested in scala, clojure, ruby, fsharp etc. :smile:  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=leejoker&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejoker&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # Program Language in Use
 
