@@ -1,7 +1,7 @@
 # About
 
 Hi~ I'm leejoker.   
-I'm usually a java coder, but I'm also interested in clojure, ruby, fsharp etc. :smile:  
+I'm usually a java coder, but I'm also interested in scala, clojure, ruby, fsharp etc. :smile:  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=leejoker&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
