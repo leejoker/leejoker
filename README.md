@@ -8,10 +8,10 @@ I'm usually a java coder, but I'm also interested in clojure, ruby, fsharp etc. 
 # Program Language in Use
 
 * Java
+* Scala
 * Clojure
 * Ruby
 * fsharp
-* Scala
 
 ![leejoker's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=leejoker&show_icons=true&count_private=true&theme=gotham)  
 
