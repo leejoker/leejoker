@@ -8,8 +8,8 @@ I'm usually a java coder, but I'm also interested in scala, clojure, ruby, fshar
 # Program Language in Use
 
 * Java
-* Scala
 * Clojure
+* Scala
 * Ruby
 * fsharp
 
